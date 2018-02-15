@@ -1,2 +1,6 @@
 # adjoint_method
-Use the adjoint method and gradient descent to find the parameters of an ODE
+Use the adjoint method and gradient descent to find the parameters of an ODE:
+
+$\dfrac{x}{t} + \omega^2x = f(x)$
+
+for some polynomial $f(x)$. Use the data in homework3_dataFinal.txt
